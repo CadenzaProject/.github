@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="cadenza_logo.png" alt="Cadenza Challenge" width="250"/>
+  <img src="profile/cadenza_logo.png" alt="Cadenza Challenge" width="250"/>
 </p>
 
 This is the GitHub Organisation for the Cadenza project. Cadenza is a UK-funded project that is working with the music, hearing and machine learning communities to set up machine learning challenges for furthering the development of hearing aid signal processing algorithms.
